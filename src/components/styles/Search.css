@@ -1,0 +1,18 @@
+.search-button {
+    font-size: 16px;
+    padding: 10px 15px;
+}
+
+.searchResult {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.resultImg {
+    width: 10%;
+    float: left;
+    height: 150px;
+
+}

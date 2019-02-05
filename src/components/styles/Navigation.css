@@ -1,0 +1,25 @@
+.NavHeader{
+    display: flex;
+    text-effect: engrave;
+    flex-wrap: wrap;
+    border-width: 5px;
+    padding-bottom: 40px;
+    font-size: 40px;
+    justify-content: space-between;
+    background-color: #7b9d7f;
+    border-bottom: solid;
+    border-color: #60736a;
+}
+
+.Content{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    height: 100px;
+    max-width: 100%;
+
+}
+
+
